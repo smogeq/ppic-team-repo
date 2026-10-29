@@ -4,3 +4,4 @@ Practice repository for UTS 43030 Professional Practice in Computing, Software D
 
 ## Update log
 - Member 1 joined the repo
+- Member 2 joined the repo
